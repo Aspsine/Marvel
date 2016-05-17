@@ -13,7 +13,7 @@ class SplashScene extends Component{
   }
 
   componentDidMount(){
-    setTimeout(this.gotoFeedScene, 2000);
+    setTimeout(this.gotoFeedScene, TIME_OUT);
   }
 
   gotoFeedScene(){

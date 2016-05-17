@@ -1,6 +1,10 @@
 # Marvel
 A React Native playground project.
 
+### TODO
+- Fix ViewPagerAndroid `onPress()` bug.
+- IOS support.
+
 ### How to run
 Step 1.
 ```
